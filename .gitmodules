@@ -7,7 +7,7 @@
 	url = https://github.com/Maverics-Seneca/frontend
 
 [submodule "microservices/auth-service"]
-	path = microservices/auth-service
+	path = microservices/auth-service 
 	url = https://github.com/Maverics-Seneca/auth-service
 
 [submodule "microservices/partner-service"]
