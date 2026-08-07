@@ -3,7 +3,7 @@
 
 MediTrack is a **microservices-based medication management platform** that helps users track their medications, set reminders, and allow caregivers to monitor adherence. This project follows a **cloud-native approach** using Firebase, Node.js, Python, Kubernetes, and Terraform.
 
-## 📌 Project Structure
+## 📌 Project Structure 
 The platform consists of multiple microservices, each handling a specific domain.
 
 ```
