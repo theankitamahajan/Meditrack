@@ -151,8 +151,6 @@ MIT License. See `LICENSE` file for details.
 
 ---
 
-## 📬 Contact
-For questions or contributions, contact **Hamza Siddiqui** at hamzahmedsiddiqui@outlook.com.
 
 ### How to clone
 git clone -b test --recurse-submodules https://github.com/Maverics-Seneca/Capstone-Project.git .
