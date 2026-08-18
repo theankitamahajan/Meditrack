@@ -38,7 +38,7 @@ spec:
             value: http://middleware:3001
 ---
 apiVersion: v1
-kind: Service
+kind: Service 
 metadata:
   name: auth-service
   namespace: maveric
